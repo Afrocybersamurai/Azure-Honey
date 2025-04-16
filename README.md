@@ -367,7 +367,7 @@ For Effective Management of High-Priority Incidents:
 <summary> <h4> Step 4️⃣</h4> </summary>
  
  - For each Incident I documented all the post-resolution activities performed, what were the findings, the steps taken, and what my analyses was.
- - I Closed the Incident after highlighting what the resolution was and if there was any necessary follow-up actions required ➜ while ensuring Compliance with NIST SP 800-53 Security Controls.<summary>
+ - I Closed the Incident after highlighting what the resolution was and if there was any necessary follow-up actions required ➜ while ensuring Compliance with NIST SP 800-53 Security Controls.</summary>
 
 </details>
 
