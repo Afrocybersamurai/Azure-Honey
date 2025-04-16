@@ -323,8 +323,7 @@ The following table shows the Metrics we measured in our Environment for another
 <br>
 
 
-<details close> 
-<summary> <h2> 🎯 Approach to Handling High-Priority Incidents with NIST Guidelines & Security Controls</h2> </summary>
+<h2> 🎯 Approach to Handling High-Priority Incidents with NIST Guidelines & Security Controls</h2>
 
 <br>
 
@@ -337,7 +336,7 @@ For Effective Management of High-Priority Incidents:
 <br>
 
 <details close> 
-<summary>**This Approach involved**:
+<summary>**This Approach involved**: <summary>
 
 <details close> 
 <summary> <h4> Step 1️⃣</h4> </summary>
