@@ -336,7 +336,8 @@ For Effective Management of High-Priority Incidents:
 
 <br>
 
-**This Approach involved**:
+<details close> 
+<summary>**This Approach involved**:
 
 <details close> 
 <summary> <h4> Step 1️⃣</h4> </summary>
