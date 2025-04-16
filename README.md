@@ -329,6 +329,7 @@ The following table shows the Metrics we measured in our Environment for another
 <br>
 
 For Effective Management of High-Priority Incidents:
+![image](https://github.com/user-attachments/assets/82f30f69-0bb8-4fff-8e20-ddc3dc826cc4)
 
 1. I adhered to [NIST SP 800-61 Revision 2](https://www.nist.gov/privacy-framework/nist-sp-800-61) Guidelines.
 2. Implemented Security Controls specified in [NIST SP 800-53 Revision 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final).
