@@ -87,7 +87,7 @@ After Investigating the Incidents that Microsoft Sentinel generated during that 
 
   - [Enabling Microsoft Defender for Cloud Regulatory Compliance for NIST 800-53](https://github.com/Afrocybersamurai/Securing-SOC-Environment-Part-1/blob/main/README.md).
 
-  - [Implementing Security Controls from NIST 800-53 Control SC-7 - Boundary Protection](https://github.com/Afrocybersamurai/Secure-SOC-Environmentn-Part-2/blob/main/README.md).
+  - [Implementing Security Controls from NIST 800-53 Control SC-7 - Boundary Protection](https://github.com/Afrocybersamurai/Securing-SOC-Environment-Part-2/blob/main/README.md).
 
   </details>
 
